@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.784" height="15.109" viewBox="0 0 19.784 15.109">
+  <g id="arrow-ascending" transform="matrix(0.995, -0.105, 0.105, 0.995, -308.664, -305.906)">
+    <line id="Línea_8" data-name="Línea 8" y1="5" x2="5" transform="translate(276.5 344.5)" fill="none" stroke="#00954b" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_10" data-name="Línea 10" y1="5.451" x2="5.733" transform="translate(284.5 342.049)" fill="none" stroke="#00954b" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_11" data-name="Línea 11" y1="0.526" x2="2.954" transform="translate(288.349 340.32)" fill="none" stroke="#00954b" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_12" data-name="Línea 12" x1="1.034" y2="3.823" transform="translate(291.019 340.32)" fill="none" stroke="#00954b" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_9" data-name="Línea 9" x1="3" y1="3" transform="translate(281.5 344.5)" fill="none" stroke="#00954b" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>
